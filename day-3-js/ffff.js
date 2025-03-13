@@ -45,7 +45,7 @@
 // j++;
 // }
 
-// //dowhile loop
+//dowhile loop
 // let k=2;
 // do 
 // {
@@ -55,8 +55,7 @@
 // while (k<=6);
 
 
-// const fruits =["apple","orange","gauva"]
-// console.log(fruits.length)
+
 
 
 console.log("1.............................")
@@ -92,7 +91,9 @@ colors.forEach((color) => console.log(color));
 //concat
 //shift
 //unshift
+//indexof
 //splice
+
 
 
 
