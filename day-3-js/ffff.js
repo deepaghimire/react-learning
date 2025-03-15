@@ -18,6 +18,9 @@
 //     return `hello ${name}`
 // }
 // console.log(Greetuser( ));
+
+
+
 //no destructured
 // function add1 (a1,b1) {
 //     return a1+b1;
@@ -29,8 +32,7 @@
 
 
 // //arrow  function
-// const Greet=(name1="user") => `hello ${name1}`
-// console.log(Greet());
+//   
 
 // //for loop
 // for (let i=2; i<= 5; i++)
