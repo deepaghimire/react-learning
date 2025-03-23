@@ -126,10 +126,9 @@ const newstudents=students.push(
 console.log(students)
 
 const a= students.map((students) => (students.Address=="Dharan-18" && students) )
-console.log(a.filter(Boolean))
 //afno bahek 
 const a2= students.map((students) => (students.Address!=="Dharan-18" && students) )
 console.log(a2.filter(Boolean))
 
 
-//write a function that checks if a num is even or odd  using ternary operator
+

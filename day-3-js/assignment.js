@@ -18,7 +18,8 @@ console.log("....................................")
 // If no name is provided, it should default to "Guest".
 
  function greet  (name1="Guest") { return ` hello ${name1}`;}
- console.log(greet());
+ console.log(greet("sweta"));
+ 
 
  console.log("...............................")
 
@@ -83,7 +84,5 @@ array.shift("gopal");
 console.log(array);
 
 
-
-
-
+ 
 
